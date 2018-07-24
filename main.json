@@ -28,9 +28,13 @@
   "etherscanAPIKey": "GCGR1C9I17TYIRNYUDDEIJH1K5BRPH4UDE",
   "ledgerPath": "m/44'/60'/0'/0",
   "bases": [
-    { "addr": "0x0000000000000000000000000000000000000000", "name": "ETH", "fullName": "Ethereum", "decimals": 18 }
+    { "addr": "0x0000000000000000000000000000000000000000", "name": "ETH", "fullName": "Ethereum", "decimals": 18 },
+    { "addr": "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359", "name": "DAI", "fullName": "DAI", "decimals": 18 },
+    { "addr": "0x949bed886c739f1A3273629b3320db0C5024c719", "name": "AMIS", "fullName": "AMIS", "decimals": 9 }
   ],
   "tokens": [
+    { "addr": "0x0000000000000000000000000000000000000000", "name": "ETH", "fullName": "Ethereum", "decimals": 18 },
+    { "addr": "0x949bed886c739f1A3273629b3320db0C5024c719", "name": "AMIS", "fullName": "AMIS", "decimals": 9 }
     { "addr": "0x006bea43baa3f7a6f765f14f10a1a1b08334ef45", "name": "STX", "fullName": "Stox", "decimals": 18 },
     { "addr": "0x009e864923b49263c7f10d19b7f8ab7a9a5aad33", "name": "FKX", "fullName": "Knoxstertoken", "decimals": 18 },
     { "addr": "0x00a0cbe98e4d110b0fa82646152d77babf2951d0", "name": "EETHER", "fullName": "EETHER", "decimals": 18 },
