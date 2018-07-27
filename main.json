@@ -23,7 +23,6 @@
   "minOrderSize": 0.001,
   "apiServer": ["https://cache.etherdelta.com"],
   "socketServer": ["https://socket.etherdelta.com"],
-  \\ ** "socketServer": "https://api.forkdelta.com",
   "userCookie": "EtherDelta",
   "eventsCacheCookie": "EtherDelta_eventsCache",
   "ordersCacheCookie": "EtherDelta_ordersCache",
